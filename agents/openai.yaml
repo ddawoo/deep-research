@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度调研"
+  short_description: "按决策目标选择研究方法，核验证据与反例，形成有边界的结论和行动建议"
+  default_prompt: "使用 $deep-research 调研我提供的主题，围绕决策目标核验证据，给出结论、主要不确定性和下一步建议。"
